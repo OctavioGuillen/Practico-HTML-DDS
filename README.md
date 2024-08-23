@@ -3,5 +3,5 @@ Este es un proyecto de trabajo práctico de una página en HTML para la cátedra
 
 Las instrucciones de ejecución del archivo son:
 
-Descargar el repositorio
-Extraer la carpeta y ejecutar el archivo "index.html"
+1. Descargar el repositorio
+2. Extraer la carpeta y ejecutar el archivo "index.html"
